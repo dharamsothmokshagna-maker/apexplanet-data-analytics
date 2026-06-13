@@ -68,7 +68,7 @@ apexplanet-data-analytics/
 
 -dashboards/
 
-- README.md
+-README.md
 
 *Installed required Python libraries:
 
