@@ -55,14 +55,15 @@ This dataset is used to practice data loading, exploration, cleaning, and analys
 *Organized the project directory with the following structure:
 
 Plain text
+
 apexplanet-data-analytics/
-│
-├── data/
-├── notebooks/
-├── scripts/
-├── reports/
-├── dashboards/
-└── README.md
+
+-data/
+-notebooks/
+-scripts/
+-reports/
+-dashboards/
+- README.md
 
 *Installed required Python libraries:
 
