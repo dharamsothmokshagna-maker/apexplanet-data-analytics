@@ -59,10 +59,15 @@ Plain text
 apexplanet-data-analytics/
 
 -data/
+
 -notebooks/
+
 -scripts/
+
 -reports/
+
 -dashboards/
+
 - README.md
 
 *Installed required Python libraries:
