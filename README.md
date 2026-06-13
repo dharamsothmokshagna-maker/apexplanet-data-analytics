@@ -1,6 +1,6 @@
 # ApexPlanet Data Analytics Internship
 
-## Task 1: Data Loading and Exploratory Data Analysis (EDA)
+## Task 1: Data Cleaning and Exploratory Data Analysis (EDA)
 
 ### Objective
 
@@ -18,14 +18,14 @@ Perform data loading, exploration, cleaning, and preliminary analysis on the Sam
 
 The Sample Superstore dataset contains retail sales transaction data, including:
 
-* Orders
-* Customers
-* Products
+* Order details-Order Id,Order Date,Ship Date and Ship Mode
+* Customer information-Customer Id,Customer Name,Segment and Region
+* Product information-Product Id,Category,Sub-Category and Product Name
+* Geographical Data-Country,State,City,Postal Code and Region
 * Sales
+* Quantity
 * Profit
 * Discounts
-* Regions
-* Categories
 
 This dataset is used to practice data loading, exploration, cleaning, and analysis techniques.
 
@@ -49,34 +49,63 @@ This dataset is used to practice data loading, exploration, cleaning, and analys
 
 ### Day 1–2
 
+
+*Installed Python, Anaconda, and Jupyter Notebook.
+*Created a GitHub repository for the internship project.
+*Organized the project directory with the following structure:
+
+Plain text
+apexplanet-data-analytics/
+│
+├── data/
+├── notebooks/
+├── scripts/
+├── reports/
+├── dashboards/
+└── README.md
+
+*Installed required Python libraries:
+
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Plotly
+
+*Downloaded and stored the Sample Superstore Dataset.
+*Verified the environment setup by importing libraries and loading the dataset successfully.
+
+### Day 3–4
+
 * Imported dataset into Pandas DataFrame
 * Explored dataset structure
 * Checked number of rows and columns
 * Examined column names
 * Inspected data types
-* Generated descriptive statistics
-* Performed exploratory data analysis (EDA)
-* Created data visualizations
-* Verified required Python libraries
+* Checked for missing values and handled them appropriately.
+* Identified and removed duplicate records.
+* Corrected data types where necessary.
+* Converted date columns into proper datetime format.
+* Checked for outliers using the IQR (Interquartile Range) method.
+* Cleaned and saved the processed dataset for further analysis.
 
-### Day 3–4
 
-* Checked missing values
-* Verified dataset completeness
-* Checked duplicate records
-* Inspected overall data quality
-* Performed outlier detection using IQR method
-* Detected *1167 outliers*
-* Created cleaned dataset
-* Exported cleaned dataset as CSV file
+### Day 5-6
 
----
+* Generated descriptive statistics using
+* Performed univariate analysis using: Histograms and Boxplots
+* Performed categorical analysis using: Barcharts
+* Analyzed relationship between numerical variables using: Correlation matrix and Heatmap visualization
+* Explored Category-wise and region-wise performance
+* Identified trends and patterns in the dataset through visualizations
+* Documents key findings and observations in the jupyter notebook
 
+
+  
 ## Files
 
-* Task1_Data_Loading_and_EDA.ipynb
-* SampleSuperstore.csv
-* SampleSuperstore_Cleaned.csv
+* Task1_Data_Loading.ipynb
+* Sample_Superstore_Full_Dataset.csv
 * README.md
 
 ---
@@ -101,8 +130,10 @@ This dataset is used to practice data loading, exploration, cleaning, and analys
 
 * Day 1–2 Completed
 * Day 3–4 Completed
+* Day 5-6 Completed
 * Dataset cleaned and exported
+* Exploratory Data Analysis Completed
 * Notebook documented and organized
 * GitHub repository updated
 
-*Task 1 is progressing successfully as per the internship schedule.*
+*Task 1 is successfully Completed as per the internship schedule.*
