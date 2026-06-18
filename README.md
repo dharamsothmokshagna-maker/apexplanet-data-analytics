@@ -161,6 +161,7 @@ This project focuses on SQL fundamentals, advanced SQL concepts, and Python-SQL 
 * Python + SQLite Integration
 
 ## Technologies Used :
+
 * Python
 * Pandas
 * SQLite
@@ -170,6 +171,36 @@ This project focuses on SQL fundamentals, advanced SQL concepts, and Python-SQL 
 * Integrated Python with SQLite for automated analysis.
 * Created reusable SQL views and utility scripts.
 * Applied advanced SQL concepts for real-world business problems.
+  
 
-## Outcome:
-Successfully completed Task 2 by building SQL-based business solutions, performing advanced data analysis, and creating reusable database utilities.
+## Files
+
+* Task2 SQL Analysis.ipynb
+* Sample_Superstore_Full_Dataset.csv
+* README.md
+
+---
+
+## Key Learning Outcomes :
+
+* Extracted business insights using SQL queries.
+* Integrated Python with SQLite for automated analysis.
+* Applied advanced SQL concepts to solve business problems.
+* Created reusable views and utility scripts for efficient analysis.
+* Documentation and GitHub repository management
+
+
+## Status
+
+### Task 2 Progress
+
+* Day 7-8 Completed
+* Day 9-10 Completed
+* Day 11-13 Completed
+* SQL Fundamentals Completed
+* Advanced SQL Completed
+* Python + SQL Integration Completed
+* Notebook documented and organized
+* GitHub repository updated
+
+*Task 2 is successfully Completed as per the internship schedule.
