@@ -146,9 +146,9 @@ Plotly
 
 ## Task 2: SQL for Data Extraction & Analysis
 
- 
-* Overview
+## Objective :
 This project focuses on SQL fundamentals, advanced SQL concepts, and Python-SQL integration using the Superstore dataset. The objective was to extract meaningful business insights through SQL queries and automate data analysis using Python and SQLite.
+
 Skills Covered
 SQL Fundamentals (SELECT, WHERE, ORDER BY, LIMIT)
 GROUP BY and HAVING Clauses
