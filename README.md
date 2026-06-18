@@ -171,6 +171,34 @@ This project focuses on SQL fundamentals, advanced SQL concepts, and Python-SQL 
 * Integrated Python with SQLite for automated analysis.
 * Created reusable SQL views and utility scripts.
 * Applied advanced SQL concepts for real-world business problems.
+
+
+## Work Completed
+
+### Day 7-8 : SQL Fundamentals
+
+* Performed data extraction using SELECT statements.
+* Applied filtering using WHERE clauses.
+* Sorted records using ORDER BY.
+* Limited results using LIMIT.
+* Practiced aggregate functions such as SUM(),AVG(),MAX() AND MIN().
+
+### Day 9-10 : Advanced SQL
+
+* Performed data grouping using GROUP BY and HAVING.
+* Implemented SQL JOINS to combine data from multiple tables.
+* Created and executed Subqueries and CTES(WITH Clause).
+* Applied Window Functions such as ROW_NUMBER(),RANK(),LAG(), and LEAD().
+* Created reusable SQL views for efficient querying.
+
+### Day 11-13: Python & SQL Integration
+
+* Connected the SQLite database with Python using the sqlite3 library.
+* Executed SQL queries through Python and retrieved results using Pandas DataFrames.
+* Solved 10 business questions using SQL-based analysis on the Superstore dataset.
+* Performed customer segmentation based on spending behavior.
+* Developed a reusable database utility script for efficient database connection and query execution.
+
   
 
 ## Files
