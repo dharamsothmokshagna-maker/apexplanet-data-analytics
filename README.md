@@ -149,43 +149,27 @@ Plotly
 ## Objective :
 This project focuses on SQL fundamentals, advanced SQL concepts, and Python-SQL integration using the Superstore dataset. The objective was to extract meaningful business insights through SQL queries and automate data analysis using Python and SQLite.
 
-Skills Covered
-SQL Fundamentals (SELECT, WHERE, ORDER BY, LIMIT)
-GROUP BY and HAVING Clauses
-SQL Joins
-Subqueries
-Common Table Expressions (CTEs)
-Window Functions (ROW_NUMBER, RANK, LAG, LEAD)
-Views for Reusable Queries
-Python + SQLite Integration
-Business Data Analysis
-Business Questions Solved
-Which category generates the highest sales?
-Which category generates the highest profit?
-Top 10 customers by sales.
-Top 10 products by sales.
-Which states generate the highest revenue?
-Which states generate the highest profit?
-Which customer segment has the highest sales?
-Which products are causing losses?
-Monthly sales trend analysis.
-Which region performs best?
-Advanced SQL Concepts Implemented
-Subqueries
-CTEs (WITH Clause)
-Window Functions
-Views
-Customer Segmentation by Spend
-Reusable Database Utility Script
-Technologies Used
-Python
-Pandas
-SQLite
-Jupyter Notebook
-Key Learnings
-Extracted business insights using SQL queries.
-Integrated Python with SQLite for automated analysis.
-Created reusable SQL views and utility scripts.
-Applied advanced SQL concepts for real-world business problems.
-Outcome
+## Skills Covered :
+
+* SQL Fundamentals (SELECT, WHERE, ORDER BY, LIMIT)
+* GROUP BY and HAVING Clauses
+* SQL Joins
+* Subqueries
+* Common Table Expressions (CTEs)
+* Window Functions (ROW_NUMBER, RANK, LAG, LEAD)
+* Views for Reusable Queries
+* Python + SQLite Integration
+
+## Technologies Used :
+* Python
+* Pandas
+* SQLite
+* Jupyter Notebook
+* Key Learnings
+* Extracted business insights using SQL queries.
+* Integrated Python with SQLite for automated analysis.
+* Created reusable SQL views and utility scripts.
+* Applied advanced SQL concepts for real-world business problems.
+
+## Outcome:
 Successfully completed Task 2 by building SQL-based business solutions, performing advanced data analysis, and creating reusable database utilities.
