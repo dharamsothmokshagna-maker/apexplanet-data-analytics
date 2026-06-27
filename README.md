@@ -262,6 +262,12 @@ Build professional and interactive dashboards using Power BI to analyze sales da
 
 ## 📅 Work Completed :
 
+### Day 14-15 - Python Visualization
+* Created plots using matplotlib
+* Created advanced plots using seaborn
+* Created interactive plots using plotly
+* Exports plots as HTML
+
 ### Day 16 – Data Import :
 * Installed Microsoft Power BI Desktop.
 * Imported the cleaned Superstore dataset.
@@ -305,7 +311,8 @@ Build professional and interactive dashboards using Power BI to analyze sales da
   
 ## 📂 Files :
 
-* Task3_Data_Visualization.pbix
+* Task3 Data visualization.ipynb
+* Task 3 Data Visualization and Dashboarding.pbix
 * cleaned_superstore.xlsx
 * Dashboard Screenshots
 * README.md
