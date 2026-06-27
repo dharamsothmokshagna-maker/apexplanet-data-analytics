@@ -232,3 +232,94 @@ This project focuses on SQL fundamentals, advanced SQL concepts, and Python-SQL 
 * GitHub repository updated
 
 *Task 2 is successfully Completed as per the internship schedule.
+
+## Task 3: Data Visualization & Dashboarding
+
+
+## 🎯 Objective :
+Build professional and interactive dashboards using Power BI to analyze sales data. Create meaningful visualizations that help understand business performance, trends, and key metrics.
+
+
+## 🛠️ Skills Covered :
+
+* Data Import and Transformation
+*Power BI Dashboard Development
+* Data Visualization
+* Interactive Slicers and Filters
+* KPI Cards
+* DAX Measures
+* Business Intelligence Reporting
+* Dashboard Design
+
+
+## 💻 Technologies Used :
+
+* Microsoft Power BI Desktop
+* Power Query
+* DAX (Data Analysis Expressions)
+* Microsoft Excel (Cleaned Dataset)
+
+
+## 📅 Work Completed :
+
+### Day 16 – Data Import :
+* Installed Microsoft Power BI Desktop.
+* Imported the cleaned Superstore dataset.
+* Verified data types and loaded the dataset into Power BI.
+
+  
+### Day 17 – Basic Visualizations :
+
+* Created Line Chart for Sales Trend.
+* Created Clustered Bar Chart for Category Analysis.
+* Created Donut Chart for Category Distribution.
+* Created Map Visualization for State-wise Sales.
+* Created Matrix Visualization for summarized data.
+
+
+### Day 18 – Interactive Features :
+
+* Added Region, Category, and Date Slicers.
+* Applied filters to interact with dashboard visuals.
+* Created DAX Measures (Total Sales, Total Profit, Total Orders).
+* Customized charts with titles, labels, and formatting.
+
+  
+### Day 19 – Dashboard Development :
+
+* Built KPI Cards for Total Sales, Total Profit, and Total Orders.
+* Added Sales Trend visualization.
+* Added Category Breakdown.
+* Added Geographic Sales Map.
+* Added Top 10 Products by Sales.
+* Designed a clean and interactive dashboard layout.
+
+  
+### Day 20 – Final Dashboard :
+
+* Improved dashboard formatting and alignment.
+* Tested slicers and filters for interactivity.
+* Finalized the dashboard for presentation.
+* Saved the Power BI project for submission.
+
+  
+## 📂 Files :
+
+* Task3_Data_Visualization.pbix
+* cleaned_superstore.xlsx
+* Dashboard Screenshots
+* README.md
+
+  
+## 🎓 Key Learning Outcomes :
+
+* Learned to build interactive dashboards using Power BI.
+* Understood how to create different chart types for business analysis.
+* Gained experience using DAX Measures for KPI calculations.
+* Learned to use slicers and filters for interactive reports.
+* Improved dashboard design and visualization skills.
+* Developed practical Business Intelligence reporting experience.
+  
+## ✅ Status :
+
+* Task 3 Completed Successfully 🎉
