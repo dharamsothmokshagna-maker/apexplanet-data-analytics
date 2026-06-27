@@ -243,7 +243,7 @@ Build professional and interactive dashboards using Power BI to analyze sales da
 ## 🛠️ Skills Covered :
 
 * Data Import and Transformation
-*Power BI Dashboard Development
+* Power BI Dashboard Development
 * Data Visualization
 * Interactive Slicers and Filters
 * KPI Cards
