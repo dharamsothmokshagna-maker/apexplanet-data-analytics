@@ -330,3 +330,92 @@ Build professional and interactive dashboards using Power BI to analyze sales da
 ## ✅ Status :
 
 * Task 3 Completed Successfully 🎉
+
+  
+
+## Task 4: Advanced Analytics & Statistical Modeling
+
+
+
+## 🎯 Objective:
+
+Perform statistical analysis, time series analysis, customer segmentation using K-Means clustering, and build a basic predictive model to extract business insights and support data-driven decision-making.
+
+## 🛠️ Skills Covered :
+
+* Descriptive Statistics
+* Hypothesis Testing (T-Test & Chi-Square Test)
+* Confidence Interval Analysis
+* Time Series Analysis
+* Data Resampling
+* Seasonal Decomposition
+* Moving Average Forecasting
+* Customer Segmentation (K-Means Clustering)
+* PCA Visualization
+* Linear Regression
+* Model Evaluation
+* Feature Importance Analysis
+
+  
+## 💻 Technologies Used :
+
+* Python
+* Jupyter Notebook
+* Pandas
+* NumPy
+* Matplotlib
+* SciPy
+* Scikit-learn
+* Statsmodels
+
+
+## 📅 Work Completed :
+
+### Day 21–22: Statistical Analysis :
+
+* Performed descriptive statistics (Mean, Median, Mode, Standard Deviation, Skewness).
+* Conducted T-Test and Chi-Square Test using SciPy.
+* Calculated 95% Confidence Interval.
+* Documented statistical insights from the dataset.
+
+  
+### Day 23–24: Time Series & Customer Segmentation :
+
+* Converted data into time-series format.
+* Resampled data into daily, weekly, and monthly intervals.
+* Performed seasonal decomposition and moving average forecasting.
+* Applied StandardScaler for feature scaling.
+* Used the Elbow Method to determine the optimal number of clusters.
+* Built a K-Means clustering model.
+* Visualized customer segments using PCA.
+* Profiled customer segments with business recommendations.
+
+  
+### Day 25–26: Predictive Modeling :
+
+* Defined feature and target variables.
+* Split the dataset into training and testing sets (80:20).
+* Built a Linear Regression model.
+* Evaluated the model using R² Score, MAE, MSE, and RMSE.
+* Identified the top three important features influencing predictions.
+
+  
+## 📂 Files :
+
+Task4 Advanced_Analytics.ipynb
+README.md
+
+
+## 📚 Key Learning Outcomes :
+
+* Applied statistical methods to analyze business data.
+* Performed hypothesis testing and confidence interval estimation.
+* Explored time-series trends and forecasting techniques.
+* Implemented customer segmentation using K-Means clustering.
+* Built and evaluated a predictive machine learning model.
+* Interpreted model performance metrics and feature importance.
+
+  
+## ✅ Status :
+
+Completed Successfully ✔️
