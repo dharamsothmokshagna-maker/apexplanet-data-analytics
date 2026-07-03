@@ -402,8 +402,8 @@ Perform statistical analysis, time series analysis, customer segmentation using 
   
 ## 📂 Files :
 
-Task4 Advanced_Analytics.ipynb
-README.md
+* Task4 Advanced_Analytics.ipynb
+* README.md
 
 
 ## 📚 Key Learning Outcomes :
