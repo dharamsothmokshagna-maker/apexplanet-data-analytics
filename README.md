@@ -419,3 +419,80 @@ Perform statistical analysis, time series analysis, customer segmentation using 
 ## ✅ Status :
 
 Completed Successfully ✔️
+
+
+## Task 5: Final Report, Automation & Presentation
+
+
+## Objective :
+
+Develop an automated data pipeline to clean the dataset, calculate business KPIs, generate reports, and prepare the project for final submission.
+
+## Skills Covered :
+
+* Python Automation
+* Data Cleaning
+* File Handling
+* KPI Calculation
+* Report Generation
+* GitHub Documentation
+* Project Presentation
+
+  
+## Technologies Used :
+
+* Python
+* Pandas
+* OpenPyXL
+* VS Code
+* Git
+* GitHub
+* CSV
+* Excel
+
+  
+## Work Completed :
+
+### Day 27 – Executive Summary Report :
+
+* Prepared the executive summary of project findings.
+* Documented top business insights and recommendations.
+* Organized dashboard screenshots for reporting.
+  
+### Day 28–29 – Automation Pipeline :
+
+* Created an automation script using Python.
+* Loaded and cleaned the Superstore dataset automatically.
+* Calculated business KPIs (Sales, Profit, Orders, Discount).
+* Exported cleaned dataset and KPI report to Excel.
+  
+### Day 30 – Final Submission :
+
+* Updated GitHub repository with all project files.
+* Added README.md, requirements.txt, and final documentation.
+* Prepared the project for internship submission.
+
+  
+## Files :
+
+* ApexPlanet Data Analytics Internship.pdf
+* automation.py
+* Sample_Superstore_Full_Dataset.csv
+* cleaned_superstore.csv
+* Business_KPIs.xlsx
+  
+## README.md :
+
+* requirements.txt
+  
+## Key Learning Outcomes :
+
+* Built an end-to-end data automation pipeline using Python.
+* Automated data cleaning and KPI generation.
+* Generated Excel reports programmatically.
+* Improved project documentation and GitHub workflow.
+* Learned how to prepare a complete analytics project for deployment and submission.
+  
+## Status :
+
+✅ Completed Successfully
